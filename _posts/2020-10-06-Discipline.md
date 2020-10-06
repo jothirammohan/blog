@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Discipline is choosing between what you want now and what you want most
+title: Discipline is choosing between what you want now and what you want most.
 ---
 
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
